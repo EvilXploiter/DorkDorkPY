@@ -1,4 +1,4 @@
-# DorkDorkPY
+U# DorkDorkPY
 
 ## Features
 - Dork search without captcha
@@ -12,7 +12,7 @@ git clone https://github.com/EvilXploiter/DorkDorkPY.git
 cd DorkDorkPY
 ```
 ```
-pip3 install -r requirements.txt - - break-system-packages
+pip3 install -r requirements.txt --break-system-packages
 ```
 ```
 python dorkpy.py
